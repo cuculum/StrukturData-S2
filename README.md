@@ -1,1 +1,0 @@
-# StrukturData-S2
